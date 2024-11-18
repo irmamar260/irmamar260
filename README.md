@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @irmamar260
-- 👀 I’m interested in learning data analitics
+- 👀 I’m interested in learning data analytics
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on data  analytics project
 - 📫 How to reach me by email 
